@@ -6,6 +6,12 @@ Module list for Sectors's Automated Financial Reports and Business Intelligence 
 
 This repository contains materials for the Automated Financial Reports and Business Intelligence workshop. The workshop is designed to provide a hands-on experience with a low-code approach to automating financial reports and building dynamic business intelligence dashboards powered by live financial data.
 
+## Important Links
+
+Here are some important links that are used during the workshop:
+- [Full Data Source (Sheets)](https://docs.google.com/spreadsheets/d/1JNNCLhutF38Y4QflgNtl1lURCxH61cesbVBKYg7H2Sk/edit?usp=sharing)
+- [Looker Template](https://lookerstudio.google.com/reporting/27df550a-9ee9-45bf-ad81-9886a1bf10cc)
+
 ## Challenge Details
 
 Create a Looker Dashboard:

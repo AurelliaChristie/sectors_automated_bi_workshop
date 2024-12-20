@@ -11,6 +11,7 @@ This repository contains materials for the Automated Financial Reports and Busin
 Here are some important links that are used during the workshop:
 - [Full Data Source (Sheets)](https://docs.google.com/spreadsheets/d/1JNNCLhutF38Y4QflgNtl1lURCxH61cesbVBKYg7H2Sk/edit?usp=sharing)
 - [Looker Template](https://lookerstudio.google.com/reporting/27df550a-9ee9-45bf-ad81-9886a1bf10cc)
+- [Looker Example](https://lookerstudio.google.com/reporting/531a89a9-454a-47e8-877d-1e6caa4fbbb4)
 
 ## Challenge Details
 
